@@ -1,2 +1,2 @@
-# hello-world
-prvi repozitorijum
+# RWA PROJEKTI
+Projekti iz predmeta Razvoj web aplikacija
